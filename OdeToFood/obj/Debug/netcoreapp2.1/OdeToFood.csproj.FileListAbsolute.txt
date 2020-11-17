@@ -35,3 +35,5 @@ C:\Users\c.a.williams\source\repos\OdeToFood-ps\OdeToFood\obj\Debug\netcoreapp2.
 C:\Users\c.a.williams\source\repos\OdeToFood-ps\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.csproj.CopyComplete
 C:\Users\c.a.williams\source\repos\OdeToFood-ps\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.dll
 C:\Users\c.a.williams\source\repos\OdeToFood-ps\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.pdb
+C:\Users\c.a.williams\source\repos\OdeToFood-ps\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\Detail.g.cshtml.cs
+C:\Users\c.a.williams\source\repos\OdeToFood-ps\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\NotFound.g.cshtml.cs

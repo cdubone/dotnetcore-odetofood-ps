@@ -6,3 +6,4 @@ C:\Users\c.a.williams\source\repos\OdeToFood-ps\OdeToFood.Core\obj\Debug\netcore
 C:\Users\c.a.williams\source\repos\OdeToFood-ps\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.AssemblyInfo.cs
 C:\Users\c.a.williams\source\repos\OdeToFood-ps\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.dll
 C:\Users\c.a.williams\source\repos\OdeToFood-ps\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.pdb
+C:\Users\c.a.williams\source\repos\OdeToFood-ps\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.csprojAssemblyReference.cache
