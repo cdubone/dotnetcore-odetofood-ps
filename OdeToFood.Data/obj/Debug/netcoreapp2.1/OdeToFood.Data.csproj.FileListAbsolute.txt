@@ -10,3 +10,5 @@ C:\Users\c.a.williams\source\repos\OdeToFood-ps\OdeToFood.Data\obj\Debug\netcore
 C:\Users\c.a.williams\source\repos\OdeToFood-ps\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.csproj.CopyComplete
 C:\Users\c.a.williams\source\repos\OdeToFood-ps\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.dll
 C:\Users\c.a.williams\source\repos\OdeToFood-ps\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.pdb
+C:\Users\c.a.williams\source\repos\OdeToFood-ps\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.runtimeconfig.json
+C:\Users\c.a.williams\source\repos\OdeToFood-ps\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.runtimeconfig.dev.json
